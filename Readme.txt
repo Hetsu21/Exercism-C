@@ -1,14 +1,13 @@
-Introduction
-A leap year (in the Gregorian calendar) occurs:
+# Exercism‑C Practice Repository
 
-In every year that is evenly divisible by 4.
-Unless the year is evenly divisible by 100, in which case it's only a leap year if the year is also evenly divisible by 400.
-Some examples:
+> A personal sandbox by a student to practice C programming daily.
 
-1997 was not a leap year as it's not divisible by 4.
-1900 was not a leap year as it's not divisible by 400.
-2000 was a leap year!
+## 🔍 About
 
+This repository is dedicated to daily hands‑on practice of C programming exercises.  
+It’s purely for learning—no production code, just a place to experiment and build confidence with:
 
-Instructions
-Your task is to determine whether a given year is a leap year.
+- C syntax and the standard library  
+- Memory management (`malloc`/`free`, pointers)  
+- Structs, linked lists, dynamic arrays, and other data structures  
+- Writing and running simple test cases  
